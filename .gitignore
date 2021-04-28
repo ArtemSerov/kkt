@@ -20,4 +20,6 @@
 /dto9fptr.py
 /libQtCore.so.4
 /fptr_t
-
+#pycharm
+/.idea/*
+/venv/*
